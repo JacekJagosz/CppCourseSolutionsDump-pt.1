@@ -1,0 +1,17 @@
+------------------------------------------
+[Autor] Joanna Kowalska
+ [Date] 29/04/2020
+------------------------------------------
+[INFO]:: InitializeCounterTab1D: for given size of 14 and value 0
+[INFO]:: InitializeLettersTab1D: for given string Joanna
+[INFO]:: InitializeLettersTab1D: for given string Kowalska
+[INFO]:: CountLetters: for given string Joanna
+[INFO]:: CountLetters: for given string Kowalska
+[INFO]:: PrintLettersCounter
+'j' :: 1
+'o' :: 2
+'a' :: 4
+'n' :: 2
+'k' :: 2
+'w' :: 1
+'l' :: 1

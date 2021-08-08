@@ -1,0 +1,19 @@
+------------------------------------------
+[Autor] Joaaannaa Kowaaalskaa
+ [Date] 06/05/2020
+------------------------------------------
+[INFO]:: InitializeCounterTab1D: for given size of 20 and value 0
+[INFO]:: InitializeLettersTab1D: for given size of 20
+[INFO]:: InitializeLettersTab1D: for given string Joaaannaa
+[INFO]:: InitializeLettersTab1D: for given string Kowaaalskaa
+[INFO]:: CountLetters: for given string Joaaannaa
+[INFO]:: CountLetters: for given string Kowaaalskaa
+[INFO]:: PrintLettersCounter
+'j' :: 1
+'o' :: 2
+'a' :: 10
+'n' :: 2
+'k' :: 2
+'w' :: 1
+'l' :: 1
+'s' :: 1
